@@ -1,4 +1,4 @@
-# US Tourism Abroad
+# World Happiness Project
 Project Requirements
 To pass your project, ensure all the following criteria are met. Maintain regular communication with your mentors to stay aligned with these guidelines.
 
