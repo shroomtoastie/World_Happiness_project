@@ -1,4 +1,5 @@
 # World Happiness Project
+The goal of this project is to look at the "World Happiness Report" datasets available on Kaggle and compare them to different factors such as Poverty Rate, Education, and Religion. I want to see if there is any correlation between these datasets. For example: Do certain religious groups have higher happiness scores than others? Does poverty or wealth affect happiness? Are countries with more education opportunities happier than those with less? 
 
 ## Project Requirements 
 
