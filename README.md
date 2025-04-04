@@ -1,6 +1,24 @@
 # World Happiness Project
 The goal of this project is to look at the "World Happiness Report" datasets available on Kaggle and compare them to different factors such as Poverty Rate, Education, and Religion. I want to see if there is any correlation between these datasets. For example: Do certain religious groups have higher happiness scores than others? Does poverty or wealth affect happiness? Are countries with more education opportunities happier than those with less? 
 
+## Running the Program
+To run this program, follow these steps:
+
+* 1. Clone this repository to your local machine.
+* 2. Create and activate a virtual environment (instructions below).
+* 3. Install the necessary dependencies by running 'pip install -r requirements.txt'in the terminal.
+
+You can now run all cells in the Jupyter Notebook.
+When you are done exploring the repository, deactivate the virtual environment.
+
+## Virtual Environment Instructions
+*   After you have cloned the repository to your local machine, open the project folder in Visual Studio Code.
+    In VS Code, create a virtual environment via the terminal.
+    Activate the virtual environment.
+    Install the required packages.
+    When you are done exploring the repository, deactivate the virtual environment.
+
+
 ## Project Requirements 
 
 To pass your project, ensure all the following criteria are met. Maintain regular communication with your mentors to stay aligned with these guidelines.
