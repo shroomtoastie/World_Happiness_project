@@ -18,6 +18,33 @@ When you are done exploring the repository, deactivate the virtual environment.
     Install the required packages.
     When you are done exploring the repository, deactivate the virtual environment.
 
+## Virtual Environment Commands
+
+| Command | Linux/Mac | GitBash |
+| ------- | --------- | ------- |
+| Create | `python3 -m venv venv` | `python -m venv venv` |
+| Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
+| Install | `pip install -r requirements.txt` <br> or pip install packages | `pip install -r requirements.txt` <br> or pip install packages |
+| Deactivate | `deactivate` | `deactivate` |
+
+**In your project folder** 
+- run python -m venv myenv (where myenv is the name of your virtual environment typically venv).
+
+**Activate the Environment:**
+
+- On Windows, use myenv/Scripts/activate.
+- On macOS/Linux, use source myenv/bin/activate
+
+**Install Packages:**
+
+- Use pip install <package_name> to install packages that are needed for your project.
+
+**Deactivate the Environment:**
+
+- When you're done working, type deactivate to return to your global environment.
+
+---
+
 
 ## Project Requirements 
 
